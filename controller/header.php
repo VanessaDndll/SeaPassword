@@ -4,6 +4,7 @@
     <link rel="stylesheet" href="/seapassword/controller/style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="HandheldFriendly" content="true" />
     <title> SeaPassword </title>
 
 </head>
